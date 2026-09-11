@@ -1,0 +1,1154 @@
+{
+  "schemaVersion": "1.0",
+  "id": "vocab-n5-experience",
+  "type": "vocab",
+  "title": "N5 体验词汇",
+  "description": "GitHub 体验版 N5 常用词汇，共 60 条。",
+  "sourceLanguage": "ja",
+  "license": "Generated sample content for JPexam GitHub experience edition.",
+  "source": "JPexam generated experience pack",
+  "createdAt": "2026-09-10",
+  "items": [
+    {
+      "id": "vocab-n5-experience-001",
+      "type": "vocab",
+      "jp": "私",
+      "kana": "わたし",
+      "zh": "我",
+      "pos": "代词",
+      "level": "N5",
+      "tags": [
+        "人物",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "私",
+          "kana": "わたし"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-002",
+      "type": "vocab",
+      "jp": "あなた",
+      "kana": "あなた",
+      "zh": "你",
+      "pos": "代词",
+      "level": "N5",
+      "tags": [
+        "人物",
+        "基础"
+      ],
+      "reading": []
+    },
+    {
+      "id": "vocab-n5-experience-003",
+      "type": "vocab",
+      "jp": "人",
+      "kana": "ひと",
+      "zh": "人",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "人物",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "人",
+          "kana": "ひと"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-004",
+      "type": "vocab",
+      "jp": "男",
+      "kana": "おとこ",
+      "zh": "男人",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "人物",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "男",
+          "kana": "おとこ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-005",
+      "type": "vocab",
+      "jp": "女",
+      "kana": "おんな",
+      "zh": "女人",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "人物",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "女",
+          "kana": "おんな"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-006",
+      "type": "vocab",
+      "jp": "子供",
+      "kana": "こども",
+      "zh": "孩子",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "人物",
+        "家庭"
+      ],
+      "reading": [
+        {
+          "text": "子供",
+          "kana": "こども"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-007",
+      "type": "vocab",
+      "jp": "先生",
+      "kana": "せんせい",
+      "zh": "老师",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "学校",
+        "人物"
+      ],
+      "reading": [
+        {
+          "text": "先生",
+          "kana": "せんせい"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-008",
+      "type": "vocab",
+      "jp": "学生",
+      "kana": "がくせい",
+      "zh": "学生",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "学校",
+        "人物"
+      ],
+      "reading": [
+        {
+          "text": "学生",
+          "kana": "がくせい"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-009",
+      "type": "vocab",
+      "jp": "友達",
+      "kana": "ともだち",
+      "zh": "朋友",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "人物",
+        "日常"
+      ],
+      "reading": [
+        {
+          "text": "友達",
+          "kana": "ともだち"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-010",
+      "type": "vocab",
+      "jp": "家族",
+      "kana": "かぞく",
+      "zh": "家人",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "家庭",
+        "人物"
+      ],
+      "reading": [
+        {
+          "text": "家族",
+          "kana": "かぞく"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-011",
+      "type": "vocab",
+      "jp": "父",
+      "kana": "ちち",
+      "zh": "父亲",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "家庭",
+        "人物"
+      ],
+      "reading": [
+        {
+          "text": "父",
+          "kana": "ちち"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-012",
+      "type": "vocab",
+      "jp": "母",
+      "kana": "はは",
+      "zh": "母亲",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "家庭",
+        "人物"
+      ],
+      "reading": [
+        {
+          "text": "母",
+          "kana": "はは"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-013",
+      "type": "vocab",
+      "jp": "名前",
+      "kana": "なまえ",
+      "zh": "名字",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "人物",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "名前",
+          "kana": "なまえ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-014",
+      "type": "vocab",
+      "jp": "国",
+      "kana": "くに",
+      "zh": "国家",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "地点",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "国",
+          "kana": "くに"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-015",
+      "type": "vocab",
+      "jp": "日本",
+      "kana": "にほん",
+      "zh": "日本",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "地点",
+        "国家"
+      ],
+      "reading": [
+        {
+          "text": "日本",
+          "kana": "にほん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-016",
+      "type": "vocab",
+      "jp": "中国",
+      "kana": "ちゅうごく",
+      "zh": "中国",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "地点",
+        "国家"
+      ],
+      "reading": [
+        {
+          "text": "中国",
+          "kana": "ちゅうごく"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-017",
+      "type": "vocab",
+      "jp": "町",
+      "kana": "まち",
+      "zh": "城镇",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "地点",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "町",
+          "kana": "まち"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-018",
+      "type": "vocab",
+      "jp": "家",
+      "kana": "いえ",
+      "zh": "家",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "地点",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "家",
+          "kana": "いえ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-019",
+      "type": "vocab",
+      "jp": "部屋",
+      "kana": "へや",
+      "zh": "房间",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "地点",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "部屋",
+          "kana": "へや"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-020",
+      "type": "vocab",
+      "jp": "学校",
+      "kana": "がっこう",
+      "zh": "学校",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "学校",
+        "地点"
+      ],
+      "reading": [
+        {
+          "text": "学校",
+          "kana": "がっこう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-021",
+      "type": "vocab",
+      "jp": "教室",
+      "kana": "きょうしつ",
+      "zh": "教室",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "学校",
+        "地点"
+      ],
+      "reading": [
+        {
+          "text": "教室",
+          "kana": "きょうしつ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-022",
+      "type": "vocab",
+      "jp": "図書館",
+      "kana": "としょかん",
+      "zh": "图书馆",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "学校",
+        "地点"
+      ],
+      "reading": [
+        {
+          "text": "図書館",
+          "kana": "としょかん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-023",
+      "type": "vocab",
+      "jp": "駅",
+      "kana": "えき",
+      "zh": "车站",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "交通",
+        "地点"
+      ],
+      "reading": [
+        {
+          "text": "駅",
+          "kana": "えき"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-024",
+      "type": "vocab",
+      "jp": "店",
+      "kana": "みせ",
+      "zh": "店",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "购物",
+        "地点"
+      ],
+      "reading": [
+        {
+          "text": "店",
+          "kana": "みせ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-025",
+      "type": "vocab",
+      "jp": "銀行",
+      "kana": "ぎんこう",
+      "zh": "银行",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "生活",
+        "地点"
+      ],
+      "reading": [
+        {
+          "text": "銀行",
+          "kana": "ぎんこう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-026",
+      "type": "vocab",
+      "jp": "病院",
+      "kana": "びょういん",
+      "zh": "医院",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "健康",
+        "地点"
+      ],
+      "reading": [
+        {
+          "text": "病院",
+          "kana": "びょういん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-027",
+      "type": "vocab",
+      "jp": "公園",
+      "kana": "こうえん",
+      "zh": "公园",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "地点",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "公園",
+          "kana": "こうえん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-028",
+      "type": "vocab",
+      "jp": "会社",
+      "kana": "かいしゃ",
+      "zh": "公司",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "工作",
+        "地点"
+      ],
+      "reading": [
+        {
+          "text": "会社",
+          "kana": "かいしゃ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-029",
+      "type": "vocab",
+      "jp": "食堂",
+      "kana": "しょくどう",
+      "zh": "食堂",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "饮食",
+        "地点"
+      ],
+      "reading": [
+        {
+          "text": "食堂",
+          "kana": "しょくどう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-030",
+      "type": "vocab",
+      "jp": "空港",
+      "kana": "くうこう",
+      "zh": "机场",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "交通",
+        "地点"
+      ],
+      "reading": [
+        {
+          "text": "空港",
+          "kana": "くうこう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-031",
+      "type": "vocab",
+      "jp": "入口",
+      "kana": "いりぐち",
+      "zh": "入口",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "地点",
+        "交通"
+      ],
+      "reading": [
+        {
+          "text": "入口",
+          "kana": "いりぐち"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-032",
+      "type": "vocab",
+      "jp": "出口",
+      "kana": "でぐち",
+      "zh": "出口",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "地点",
+        "交通"
+      ],
+      "reading": [
+        {
+          "text": "出口",
+          "kana": "でぐち"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-033",
+      "type": "vocab",
+      "jp": "前",
+      "kana": "まえ",
+      "zh": "前面",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "位置",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "前",
+          "kana": "まえ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-034",
+      "type": "vocab",
+      "jp": "後ろ",
+      "kana": "うしろ",
+      "zh": "后面",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "位置",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "後ろ",
+          "kana": "うしろ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-035",
+      "type": "vocab",
+      "jp": "右",
+      "kana": "みぎ",
+      "zh": "右边",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "位置",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "右",
+          "kana": "みぎ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-036",
+      "type": "vocab",
+      "jp": "左",
+      "kana": "ひだり",
+      "zh": "左边",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "位置",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "左",
+          "kana": "ひだり"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-037",
+      "type": "vocab",
+      "jp": "上",
+      "kana": "うえ",
+      "zh": "上面",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "位置",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "上",
+          "kana": "うえ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-038",
+      "type": "vocab",
+      "jp": "下",
+      "kana": "した",
+      "zh": "下面",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "位置",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "下",
+          "kana": "した"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-039",
+      "type": "vocab",
+      "jp": "中",
+      "kana": "なか",
+      "zh": "里面",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "位置",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "中",
+          "kana": "なか"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-040",
+      "type": "vocab",
+      "jp": "外",
+      "kana": "そと",
+      "zh": "外面",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "位置",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "外",
+          "kana": "そと"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-041",
+      "type": "vocab",
+      "jp": "今日",
+      "kana": "きょう",
+      "zh": "今天",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "时间",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "今日",
+          "kana": "きょう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-042",
+      "type": "vocab",
+      "jp": "明日",
+      "kana": "あした",
+      "zh": "明天",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "时间",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "明日",
+          "kana": "あした"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-043",
+      "type": "vocab",
+      "jp": "昨日",
+      "kana": "きのう",
+      "zh": "昨天",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "时间",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "昨日",
+          "kana": "きのう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-044",
+      "type": "vocab",
+      "jp": "朝",
+      "kana": "あさ",
+      "zh": "早上",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "时间",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "朝",
+          "kana": "あさ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-045",
+      "type": "vocab",
+      "jp": "昼",
+      "kana": "ひる",
+      "zh": "中午",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "时间",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "昼",
+          "kana": "ひる"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-046",
+      "type": "vocab",
+      "jp": "夜",
+      "kana": "よる",
+      "zh": "晚上",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "时间",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "夜",
+          "kana": "よる"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-047",
+      "type": "vocab",
+      "jp": "毎日",
+      "kana": "まいにち",
+      "zh": "每天",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "时间",
+        "习惯"
+      ],
+      "reading": [
+        {
+          "text": "毎日",
+          "kana": "まいにち"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-048",
+      "type": "vocab",
+      "jp": "時間",
+      "kana": "じかん",
+      "zh": "时间",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "时间",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "時間",
+          "kana": "じかん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-049",
+      "type": "vocab",
+      "jp": "休み",
+      "kana": "やすみ",
+      "zh": [
+        "休息",
+        "假日"
+      ],
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "时间",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "休み",
+          "kana": "やすみ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-050",
+      "type": "vocab",
+      "jp": "天気",
+      "kana": "てんき",
+      "zh": "天气",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "自然",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "天気",
+          "kana": "てんき"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-051",
+      "type": "vocab",
+      "jp": "雨",
+      "kana": "あめ",
+      "zh": "雨",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "天气",
+        "自然"
+      ],
+      "reading": [
+        {
+          "text": "雨",
+          "kana": "あめ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-052",
+      "type": "vocab",
+      "jp": "雪",
+      "kana": "ゆき",
+      "zh": "雪",
+      "pos": "名词",
+      "level": "N5",
+      "tags": [
+        "天气",
+        "自然"
+      ],
+      "reading": [
+        {
+          "text": "雪",
+          "kana": "ゆき"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-053",
+      "type": "vocab",
+      "jp": "食べる",
+      "kana": "たべる",
+      "zh": "吃",
+      "pos": "二类动词",
+      "level": "N5",
+      "tags": [
+        "饮食",
+        "动作"
+      ],
+      "reading": [
+        {
+          "text": "食べる",
+          "kana": "たべる"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-054",
+      "type": "vocab",
+      "jp": "飲む",
+      "kana": "のむ",
+      "zh": "喝",
+      "pos": "一类动词",
+      "level": "N5",
+      "tags": [
+        "饮食",
+        "动作"
+      ],
+      "reading": [
+        {
+          "text": "飲む",
+          "kana": "のむ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-055",
+      "type": "vocab",
+      "jp": "見る",
+      "kana": "みる",
+      "zh": "看",
+      "pos": "二类动词",
+      "level": "N5",
+      "tags": [
+        "动作",
+        "日常"
+      ],
+      "reading": [
+        {
+          "text": "見る",
+          "kana": "みる"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-056",
+      "type": "vocab",
+      "jp": "聞く",
+      "kana": "きく",
+      "zh": [
+        "听",
+        "问"
+      ],
+      "pos": "一类动词",
+      "level": "N5",
+      "tags": [
+        "动作",
+        "沟通"
+      ],
+      "reading": [
+        {
+          "text": "聞く",
+          "kana": "きく"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-057",
+      "type": "vocab",
+      "jp": "読む",
+      "kana": "よむ",
+      "zh": "读",
+      "pos": "一类动词",
+      "level": "N5",
+      "tags": [
+        "学习",
+        "动作"
+      ],
+      "reading": [
+        {
+          "text": "読む",
+          "kana": "よむ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-058",
+      "type": "vocab",
+      "jp": "書く",
+      "kana": "かく",
+      "zh": "写",
+      "pos": "一类动词",
+      "level": "N5",
+      "tags": [
+        "学习",
+        "动作"
+      ],
+      "reading": [
+        {
+          "text": "書く",
+          "kana": "かく"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-059",
+      "type": "vocab",
+      "jp": "行く",
+      "kana": "いく",
+      "zh": "去",
+      "pos": "一类动词",
+      "level": "N5",
+      "tags": [
+        "移动",
+        "动作"
+      ],
+      "reading": [
+        {
+          "text": "行く",
+          "kana": "いく"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n5-experience-060",
+      "type": "vocab",
+      "jp": "来る",
+      "kana": "くる",
+      "zh": "来",
+      "pos": "三类动词",
+      "level": "N5",
+      "tags": [
+        "移动",
+        "动作"
+      ],
+      "reading": [
+        {
+          "text": "来る",
+          "kana": "くる"
+        }
+      ]
+    }
+  ]
+}

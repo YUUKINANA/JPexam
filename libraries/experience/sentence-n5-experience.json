@@ -1,0 +1,913 @@
+{
+  "schemaVersion": "1.0",
+  "id": "sentence-n5-experience",
+  "type": "sentence",
+  "title": "N5 体验句子",
+  "description": "GitHub 体验版 N5 基础句子，共 30 条。",
+  "sourceLanguage": "ja",
+  "license": "Generated sample content for JPexam GitHub experience edition.",
+  "source": "JPexam generated experience pack",
+  "createdAt": "2026-09-10",
+  "items": [
+    {
+      "id": "sentence-n5-experience-001",
+      "type": "sentence",
+      "jp": "私は学校で日本語を勉強します。",
+      "kana": "わたしはがっこうでにほんごをべんきょうします。",
+      "zh": "我在学校学习日语。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "私",
+          "kana": "わたし"
+        },
+        {
+          "text": "学校",
+          "kana": "がっこう"
+        },
+        {
+          "text": "日本語",
+          "kana": "にほんご"
+        },
+        {
+          "text": "勉強します",
+          "kana": "べんきょうします"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-002",
+      "type": "sentence",
+      "jp": "友達は図書館で本を読みます。",
+      "kana": "ともだちはとしょかんでほんをよみます。",
+      "zh": "朋友在图书馆读书。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "友達",
+          "kana": "ともだち"
+        },
+        {
+          "text": "図書館",
+          "kana": "としょかん"
+        },
+        {
+          "text": "本",
+          "kana": "ほん"
+        },
+        {
+          "text": "読みます",
+          "kana": "よみます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-003",
+      "type": "sentence",
+      "jp": "先生は駅で手紙を書きます。",
+      "kana": "せんせいはえきでてがみをかきます。",
+      "zh": "老师在车站写信。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "先生",
+          "kana": "せんせい"
+        },
+        {
+          "text": "駅",
+          "kana": "えき"
+        },
+        {
+          "text": "手紙",
+          "kana": "てがみ"
+        },
+        {
+          "text": "書きます",
+          "kana": "かきます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-004",
+      "type": "sentence",
+      "jp": "母は店で写真を見ます。",
+      "kana": "はははみせでしゃしんをみます。",
+      "zh": "母亲在店看照片。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "母",
+          "kana": "はは"
+        },
+        {
+          "text": "店",
+          "kana": "みせ"
+        },
+        {
+          "text": "写真",
+          "kana": "しゃしん"
+        },
+        {
+          "text": "見ます",
+          "kana": "みます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-005",
+      "type": "sentence",
+      "jp": "父は家で映画を待ちます。",
+      "kana": "ちちはいえでえいがをまちます。",
+      "zh": "父亲在家等电影。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "父",
+          "kana": "ちち"
+        },
+        {
+          "text": "家",
+          "kana": "いえ"
+        },
+        {
+          "text": "映画",
+          "kana": "えいが"
+        },
+        {
+          "text": "待ちます",
+          "kana": "まちます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-006",
+      "type": "sentence",
+      "jp": "私は学校で日本語を勉強します。",
+      "kana": "わたしはがっこうでにほんごをべんきょうします。",
+      "zh": "我在学校学习日语。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "私",
+          "kana": "わたし"
+        },
+        {
+          "text": "学校",
+          "kana": "がっこう"
+        },
+        {
+          "text": "日本語",
+          "kana": "にほんご"
+        },
+        {
+          "text": "勉強します",
+          "kana": "べんきょうします"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-007",
+      "type": "sentence",
+      "jp": "友達は図書館で本を読みます。",
+      "kana": "ともだちはとしょかんでほんをよみます。",
+      "zh": "朋友在图书馆读书。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "友達",
+          "kana": "ともだち"
+        },
+        {
+          "text": "図書館",
+          "kana": "としょかん"
+        },
+        {
+          "text": "本",
+          "kana": "ほん"
+        },
+        {
+          "text": "読みます",
+          "kana": "よみます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-008",
+      "type": "sentence",
+      "jp": "先生は駅で手紙を書きます。",
+      "kana": "せんせいはえきでてがみをかきます。",
+      "zh": "老师在车站写信。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "先生",
+          "kana": "せんせい"
+        },
+        {
+          "text": "駅",
+          "kana": "えき"
+        },
+        {
+          "text": "手紙",
+          "kana": "てがみ"
+        },
+        {
+          "text": "書きます",
+          "kana": "かきます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-009",
+      "type": "sentence",
+      "jp": "母は店で写真を見ます。",
+      "kana": "はははみせでしゃしんをみます。",
+      "zh": "母亲在店看照片。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "母",
+          "kana": "はは"
+        },
+        {
+          "text": "店",
+          "kana": "みせ"
+        },
+        {
+          "text": "写真",
+          "kana": "しゃしん"
+        },
+        {
+          "text": "見ます",
+          "kana": "みます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-010",
+      "type": "sentence",
+      "jp": "父は家で映画を待ちます。",
+      "kana": "ちちはいえでえいがをまちます。",
+      "zh": "父亲在家等电影。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "父",
+          "kana": "ちち"
+        },
+        {
+          "text": "家",
+          "kana": "いえ"
+        },
+        {
+          "text": "映画",
+          "kana": "えいが"
+        },
+        {
+          "text": "待ちます",
+          "kana": "まちます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-011",
+      "type": "sentence",
+      "jp": "私は学校で日本語を勉強します。",
+      "kana": "わたしはがっこうでにほんごをべんきょうします。",
+      "zh": "我在学校学习日语。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "私",
+          "kana": "わたし"
+        },
+        {
+          "text": "学校",
+          "kana": "がっこう"
+        },
+        {
+          "text": "日本語",
+          "kana": "にほんご"
+        },
+        {
+          "text": "勉強します",
+          "kana": "べんきょうします"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-012",
+      "type": "sentence",
+      "jp": "友達は図書館で本を読みます。",
+      "kana": "ともだちはとしょかんでほんをよみます。",
+      "zh": "朋友在图书馆读书。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "友達",
+          "kana": "ともだち"
+        },
+        {
+          "text": "図書館",
+          "kana": "としょかん"
+        },
+        {
+          "text": "本",
+          "kana": "ほん"
+        },
+        {
+          "text": "読みます",
+          "kana": "よみます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-013",
+      "type": "sentence",
+      "jp": "先生は駅で手紙を書きます。",
+      "kana": "せんせいはえきでてがみをかきます。",
+      "zh": "老师在车站写信。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "先生",
+          "kana": "せんせい"
+        },
+        {
+          "text": "駅",
+          "kana": "えき"
+        },
+        {
+          "text": "手紙",
+          "kana": "てがみ"
+        },
+        {
+          "text": "書きます",
+          "kana": "かきます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-014",
+      "type": "sentence",
+      "jp": "母は店で写真を見ます。",
+      "kana": "はははみせでしゃしんをみます。",
+      "zh": "母亲在店看照片。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "母",
+          "kana": "はは"
+        },
+        {
+          "text": "店",
+          "kana": "みせ"
+        },
+        {
+          "text": "写真",
+          "kana": "しゃしん"
+        },
+        {
+          "text": "見ます",
+          "kana": "みます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-015",
+      "type": "sentence",
+      "jp": "父は家で映画を待ちます。",
+      "kana": "ちちはいえでえいがをまちます。",
+      "zh": "父亲在家等电影。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "父",
+          "kana": "ちち"
+        },
+        {
+          "text": "家",
+          "kana": "いえ"
+        },
+        {
+          "text": "映画",
+          "kana": "えいが"
+        },
+        {
+          "text": "待ちます",
+          "kana": "まちます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-016",
+      "type": "sentence",
+      "jp": "私は学校で日本語を勉強します。",
+      "kana": "わたしはがっこうでにほんごをべんきょうします。",
+      "zh": "我在学校学习日语。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "私",
+          "kana": "わたし"
+        },
+        {
+          "text": "学校",
+          "kana": "がっこう"
+        },
+        {
+          "text": "日本語",
+          "kana": "にほんご"
+        },
+        {
+          "text": "勉強します",
+          "kana": "べんきょうします"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-017",
+      "type": "sentence",
+      "jp": "友達は図書館で本を読みます。",
+      "kana": "ともだちはとしょかんでほんをよみます。",
+      "zh": "朋友在图书馆读书。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "友達",
+          "kana": "ともだち"
+        },
+        {
+          "text": "図書館",
+          "kana": "としょかん"
+        },
+        {
+          "text": "本",
+          "kana": "ほん"
+        },
+        {
+          "text": "読みます",
+          "kana": "よみます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-018",
+      "type": "sentence",
+      "jp": "先生は駅で手紙を書きます。",
+      "kana": "せんせいはえきでてがみをかきます。",
+      "zh": "老师在车站写信。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "先生",
+          "kana": "せんせい"
+        },
+        {
+          "text": "駅",
+          "kana": "えき"
+        },
+        {
+          "text": "手紙",
+          "kana": "てがみ"
+        },
+        {
+          "text": "書きます",
+          "kana": "かきます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-019",
+      "type": "sentence",
+      "jp": "母は店で写真を見ます。",
+      "kana": "はははみせでしゃしんをみます。",
+      "zh": "母亲在店看照片。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "母",
+          "kana": "はは"
+        },
+        {
+          "text": "店",
+          "kana": "みせ"
+        },
+        {
+          "text": "写真",
+          "kana": "しゃしん"
+        },
+        {
+          "text": "見ます",
+          "kana": "みます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-020",
+      "type": "sentence",
+      "jp": "父は家で映画を待ちます。",
+      "kana": "ちちはいえでえいがをまちます。",
+      "zh": "父亲在家等电影。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "父",
+          "kana": "ちち"
+        },
+        {
+          "text": "家",
+          "kana": "いえ"
+        },
+        {
+          "text": "映画",
+          "kana": "えいが"
+        },
+        {
+          "text": "待ちます",
+          "kana": "まちます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-021",
+      "type": "sentence",
+      "jp": "私は学校で日本語を勉強します。",
+      "kana": "わたしはがっこうでにほんごをべんきょうします。",
+      "zh": "我在学校学习日语。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "私",
+          "kana": "わたし"
+        },
+        {
+          "text": "学校",
+          "kana": "がっこう"
+        },
+        {
+          "text": "日本語",
+          "kana": "にほんご"
+        },
+        {
+          "text": "勉強します",
+          "kana": "べんきょうします"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-022",
+      "type": "sentence",
+      "jp": "友達は図書館で本を読みます。",
+      "kana": "ともだちはとしょかんでほんをよみます。",
+      "zh": "朋友在图书馆读书。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "友達",
+          "kana": "ともだち"
+        },
+        {
+          "text": "図書館",
+          "kana": "としょかん"
+        },
+        {
+          "text": "本",
+          "kana": "ほん"
+        },
+        {
+          "text": "読みます",
+          "kana": "よみます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-023",
+      "type": "sentence",
+      "jp": "先生は駅で手紙を書きます。",
+      "kana": "せんせいはえきでてがみをかきます。",
+      "zh": "老师在车站写信。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "先生",
+          "kana": "せんせい"
+        },
+        {
+          "text": "駅",
+          "kana": "えき"
+        },
+        {
+          "text": "手紙",
+          "kana": "てがみ"
+        },
+        {
+          "text": "書きます",
+          "kana": "かきます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-024",
+      "type": "sentence",
+      "jp": "母は店で写真を見ます。",
+      "kana": "はははみせでしゃしんをみます。",
+      "zh": "母亲在店看照片。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "母",
+          "kana": "はは"
+        },
+        {
+          "text": "店",
+          "kana": "みせ"
+        },
+        {
+          "text": "写真",
+          "kana": "しゃしん"
+        },
+        {
+          "text": "見ます",
+          "kana": "みます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-025",
+      "type": "sentence",
+      "jp": "父は家で映画を待ちます。",
+      "kana": "ちちはいえでえいがをまちます。",
+      "zh": "父亲在家等电影。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "父",
+          "kana": "ちち"
+        },
+        {
+          "text": "家",
+          "kana": "いえ"
+        },
+        {
+          "text": "映画",
+          "kana": "えいが"
+        },
+        {
+          "text": "待ちます",
+          "kana": "まちます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-026",
+      "type": "sentence",
+      "jp": "私は学校で日本語を勉強します。",
+      "kana": "わたしはがっこうでにほんごをべんきょうします。",
+      "zh": "我在学校学习日语。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "私",
+          "kana": "わたし"
+        },
+        {
+          "text": "学校",
+          "kana": "がっこう"
+        },
+        {
+          "text": "日本語",
+          "kana": "にほんご"
+        },
+        {
+          "text": "勉強します",
+          "kana": "べんきょうします"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-027",
+      "type": "sentence",
+      "jp": "友達は図書館で本を読みます。",
+      "kana": "ともだちはとしょかんでほんをよみます。",
+      "zh": "朋友在图书馆读书。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "友達",
+          "kana": "ともだち"
+        },
+        {
+          "text": "図書館",
+          "kana": "としょかん"
+        },
+        {
+          "text": "本",
+          "kana": "ほん"
+        },
+        {
+          "text": "読みます",
+          "kana": "よみます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-028",
+      "type": "sentence",
+      "jp": "先生は駅で手紙を書きます。",
+      "kana": "せんせいはえきでてがみをかきます。",
+      "zh": "老师在车站写信。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "先生",
+          "kana": "せんせい"
+        },
+        {
+          "text": "駅",
+          "kana": "えき"
+        },
+        {
+          "text": "手紙",
+          "kana": "てがみ"
+        },
+        {
+          "text": "書きます",
+          "kana": "かきます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-029",
+      "type": "sentence",
+      "jp": "母は店で写真を見ます。",
+      "kana": "はははみせでしゃしんをみます。",
+      "zh": "母亲在店看照片。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "母",
+          "kana": "はは"
+        },
+        {
+          "text": "店",
+          "kana": "みせ"
+        },
+        {
+          "text": "写真",
+          "kana": "しゃしん"
+        },
+        {
+          "text": "見ます",
+          "kana": "みます"
+        }
+      ]
+    },
+    {
+      "id": "sentence-n5-experience-030",
+      "type": "sentence",
+      "jp": "父は家で映画を待ちます。",
+      "kana": "ちちはいえでえいがをまちます。",
+      "zh": "父亲在家等电影。",
+      "level": "N5",
+      "tags": [
+        "日常",
+        "基础"
+      ],
+      "reading": [
+        {
+          "text": "父",
+          "kana": "ちち"
+        },
+        {
+          "text": "家",
+          "kana": "いえ"
+        },
+        {
+          "text": "映画",
+          "kana": "えいが"
+        },
+        {
+          "text": "待ちます",
+          "kana": "まちます"
+        }
+      ]
+    }
+  ]
+}

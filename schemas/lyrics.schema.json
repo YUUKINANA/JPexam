@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "JPexam Lyrics Library",
+  "type": "object",
+  "required": ["schemaVersion", "id", "type", "title", "sourceLanguage", "lines"],
+  "properties": {
+    "schemaVersion": { "const": "1.0" },
+    "id": { "type": "string", "minLength": 1 },
+    "type": { "const": "lyrics" },
+    "title": { "type": "string", "minLength": 1 },
+    "description": { "type": "string" },
+    "sourceLanguage": { "const": "ja" },
+    "license": { "type": "string" },
+    "source": { "type": "string" },
+    "createdAt": { "type": "string" },
+    "updatedAt": { "type": "string" },
+    "lines": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/lyricsLine" }
+    }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "readingPart": {
+      "type": "object",
+      "required": ["text", "kana"],
+      "properties": {
+        "text": { "type": "string", "minLength": 1 },
+        "kana": { "type": "string", "minLength": 1 },
+        "note": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "ambiguity": {
+      "type": "object",
+      "required": ["text"],
+      "properties": {
+        "text": { "type": "string", "minLength": 1 },
+        "readings": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["kana", "zh"],
+            "properties": {
+              "kana": { "type": "string", "minLength": 1 },
+              "zh": { "type": "string", "minLength": 1 },
+              "note": { "type": "string" }
+            },
+            "additionalProperties": false
+          }
+        },
+        "meanings": { "type": "array", "items": { "type": "string" } },
+        "note": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "lyricsLine": {
+      "type": "object",
+      "required": ["id", "type", "jp", "kana", "zh", "level", "lineNumber", "reading"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "type": { "const": "lyrics" },
+        "jp": { "type": "string", "minLength": 1 },
+        "kana": { "type": "string", "minLength": 1 },
+        "zh": { "type": "string", "minLength": 1 },
+        "level": { "enum": ["N5", "N4", "N3", "N2", "N1", "custom"] },
+        "lineNumber": { "type": "integer", "minimum": 1 },
+        "tags": { "type": "array", "items": { "type": "string" } },
+        "reading": { "type": "array", "items": { "$ref": "#/$defs/readingPart" } },
+        "ambiguities": { "type": "array", "items": { "$ref": "#/$defs/ambiguity" } },
+        "source": { "type": "string" },
+        "note": { "type": "string" }
+      },
+      "additionalProperties": false
+    }
+  }
+}

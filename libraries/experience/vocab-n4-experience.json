@@ -1,0 +1,1189 @@
+{
+  "schemaVersion": "1.0",
+  "id": "vocab-n4-experience",
+  "type": "vocab",
+  "title": "N4 体验词汇",
+  "description": "GitHub 体验版 N4 常用词汇，共 60 条。",
+  "sourceLanguage": "ja",
+  "license": "Generated sample content for JPexam GitHub experience edition.",
+  "source": "JPexam generated experience pack",
+  "createdAt": "2026-09-10",
+  "items": [
+    {
+      "id": "vocab-n4-experience-001",
+      "type": "vocab",
+      "jp": "予定",
+      "kana": "よてい",
+      "zh": [
+        "计划",
+        "预定"
+      ],
+      "pos": "名词/サ变动词",
+      "level": "N4",
+      "tags": [
+        "时间",
+        "计划"
+      ],
+      "reading": [
+        {
+          "text": "予定",
+          "kana": "よてい"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-002",
+      "type": "vocab",
+      "jp": "用事",
+      "kana": "ようじ",
+      "zh": [
+        "事情",
+        "要办的事"
+      ],
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "生活",
+        "计划"
+      ],
+      "reading": [
+        {
+          "text": "用事",
+          "kana": "ようじ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-003",
+      "type": "vocab",
+      "jp": "準備",
+      "kana": "じゅんび",
+      "zh": "准备",
+      "pos": "名词/サ变动词",
+      "level": "N4",
+      "tags": [
+        "行动",
+        "计划"
+      ],
+      "reading": [
+        {
+          "text": "準備",
+          "kana": "じゅんび"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-004",
+      "type": "vocab",
+      "jp": "連絡",
+      "kana": "れんらく",
+      "zh": "联系",
+      "pos": "名词/サ变动词",
+      "level": "N4",
+      "tags": [
+        "沟通",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "連絡",
+          "kana": "れんらく"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-005",
+      "type": "vocab",
+      "jp": "説明",
+      "kana": "せつめい",
+      "zh": "说明",
+      "pos": "名词/サ变动词",
+      "level": "N4",
+      "tags": [
+        "沟通",
+        "学习"
+      ],
+      "reading": [
+        {
+          "text": "説明",
+          "kana": "せつめい"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-006",
+      "type": "vocab",
+      "jp": "約束",
+      "kana": "やくそく",
+      "zh": "约定",
+      "pos": "名词/サ变动词",
+      "level": "N4",
+      "tags": [
+        "人际",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "約束",
+          "kana": "やくそく"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-007",
+      "type": "vocab",
+      "jp": "経験",
+      "kana": "けいけん",
+      "zh": "经验",
+      "pos": "名词/サ变动词",
+      "level": "N4",
+      "tags": [
+        "学习",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "経験",
+          "kana": "けいけん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-008",
+      "type": "vocab",
+      "jp": "必要",
+      "kana": "ひつよう",
+      "zh": "必要",
+      "pos": "名词/形容动词",
+      "level": "N4",
+      "tags": [
+        "判断",
+        "常用"
+      ],
+      "reading": [
+        {
+          "text": "必要",
+          "kana": "ひつよう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-009",
+      "type": "vocab",
+      "jp": "安全",
+      "kana": "あんぜん",
+      "zh": "安全",
+      "pos": "名词/形容动词",
+      "level": "N4",
+      "tags": [
+        "状态",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "安全",
+          "kana": "あんぜん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-010",
+      "type": "vocab",
+      "jp": "危険",
+      "kana": "きけん",
+      "zh": "危险",
+      "pos": "名词/形容动词",
+      "level": "N4",
+      "tags": [
+        "状态",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "危険",
+          "kana": "きけん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-011",
+      "type": "vocab",
+      "jp": "便利",
+      "kana": "べんり",
+      "zh": "方便",
+      "pos": "形容动词",
+      "level": "N4",
+      "tags": [
+        "评价",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "便利",
+          "kana": "べんり"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-012",
+      "type": "vocab",
+      "jp": "不便",
+      "kana": "ふべん",
+      "zh": "不方便",
+      "pos": "形容动词",
+      "level": "N4",
+      "tags": [
+        "评价",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "不便",
+          "kana": "ふべん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-013",
+      "type": "vocab",
+      "jp": "残念",
+      "kana": "ざんねん",
+      "zh": [
+        "遗憾",
+        "可惜"
+      ],
+      "pos": "形容动词",
+      "level": "N4",
+      "tags": [
+        "情绪",
+        "评价"
+      ],
+      "reading": [
+        {
+          "text": "残念",
+          "kana": "ざんねん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-014",
+      "type": "vocab",
+      "jp": "特別",
+      "kana": "とくべつ",
+      "zh": "特别",
+      "pos": "形容动词",
+      "level": "N4",
+      "tags": [
+        "评价",
+        "常用"
+      ],
+      "reading": [
+        {
+          "text": "特別",
+          "kana": "とくべつ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-015",
+      "type": "vocab",
+      "jp": "普通",
+      "kana": "ふつう",
+      "zh": "普通",
+      "pos": "名词/形容动词",
+      "level": "N4",
+      "tags": [
+        "评价",
+        "常用"
+      ],
+      "reading": [
+        {
+          "text": "普通",
+          "kana": "ふつう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-016",
+      "type": "vocab",
+      "jp": "自由",
+      "kana": "じゆう",
+      "zh": "自由",
+      "pos": "名词/形容动词",
+      "level": "N4",
+      "tags": [
+        "状态",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "自由",
+          "kana": "じゆう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-017",
+      "type": "vocab",
+      "jp": "簡単",
+      "kana": "かんたん",
+      "zh": "简单",
+      "pos": "形容动词",
+      "level": "N4",
+      "tags": [
+        "评价",
+        "学习"
+      ],
+      "reading": [
+        {
+          "text": "簡単",
+          "kana": "かんたん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-018",
+      "type": "vocab",
+      "jp": "複雑",
+      "kana": "ふくざつ",
+      "zh": "复杂",
+      "pos": "形容动词",
+      "level": "N4",
+      "tags": [
+        "评价",
+        "学习"
+      ],
+      "reading": [
+        {
+          "text": "複雑",
+          "kana": "ふくざつ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-019",
+      "type": "vocab",
+      "jp": "理由",
+      "kana": "りゆう",
+      "zh": "理由",
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "说明",
+        "逻辑"
+      ],
+      "reading": [
+        {
+          "text": "理由",
+          "kana": "りゆう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-020",
+      "type": "vocab",
+      "jp": "場合",
+      "kana": "ばあい",
+      "zh": [
+        "场合",
+        "情况"
+      ],
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "说明",
+        "逻辑"
+      ],
+      "reading": [
+        {
+          "text": "場合",
+          "kana": "ばあい"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-021",
+      "type": "vocab",
+      "jp": "方法",
+      "kana": "ほうほう",
+      "zh": "方法",
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "学习",
+        "说明"
+      ],
+      "reading": [
+        {
+          "text": "方法",
+          "kana": "ほうほう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-022",
+      "type": "vocab",
+      "jp": "問題",
+      "kana": "もんだい",
+      "zh": "问题",
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "学习",
+        "工作"
+      ],
+      "reading": [
+        {
+          "text": "問題",
+          "kana": "もんだい"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-023",
+      "type": "vocab",
+      "jp": "答え",
+      "kana": "こたえ",
+      "zh": [
+        "答案",
+        "回答"
+      ],
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "学习",
+        "沟通"
+      ],
+      "reading": [
+        {
+          "text": "答え",
+          "kana": "こたえ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-024",
+      "type": "vocab",
+      "jp": "意見",
+      "kana": "いけん",
+      "zh": "意见",
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "沟通",
+        "思考"
+      ],
+      "reading": [
+        {
+          "text": "意見",
+          "kana": "いけん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-025",
+      "type": "vocab",
+      "jp": "季節",
+      "kana": "きせつ",
+      "zh": "季节",
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "自然",
+        "时间"
+      ],
+      "reading": [
+        {
+          "text": "季節",
+          "kana": "きせつ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-026",
+      "type": "vocab",
+      "jp": "空気",
+      "kana": "くうき",
+      "zh": [
+        "空气",
+        "气氛"
+      ],
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "自然",
+        "状态"
+      ],
+      "reading": [
+        {
+          "text": "空気",
+          "kana": "くうき"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-027",
+      "type": "vocab",
+      "jp": "景色",
+      "kana": "けしき",
+      "zh": "景色",
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "自然",
+        "旅行"
+      ],
+      "reading": [
+        {
+          "text": "景色",
+          "kana": "けしき"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-028",
+      "type": "vocab",
+      "jp": "人口",
+      "kana": "じんこう",
+      "zh": "人口",
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "社会",
+        "数据"
+      ],
+      "reading": [
+        {
+          "text": "人口",
+          "kana": "じんこう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-029",
+      "type": "vocab",
+      "jp": "文化",
+      "kana": "ぶんか",
+      "zh": "文化",
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "社会",
+        "学习"
+      ],
+      "reading": [
+        {
+          "text": "文化",
+          "kana": "ぶんか"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-030",
+      "type": "vocab",
+      "jp": "生活",
+      "kana": "せいかつ",
+      "zh": "生活",
+      "pos": "名词/サ变动词",
+      "level": "N4",
+      "tags": [
+        "生活",
+        "常用"
+      ],
+      "reading": [
+        {
+          "text": "生活",
+          "kana": "せいかつ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-031",
+      "type": "vocab",
+      "jp": "受付",
+      "kana": "うけつけ",
+      "zh": [
+        "接待处",
+        "受理"
+      ],
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "服务",
+        "地点"
+      ],
+      "reading": [
+        {
+          "text": "受付",
+          "kana": "うけつけ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-032",
+      "type": "vocab",
+      "jp": "会場",
+      "kana": "かいじょう",
+      "zh": "会场",
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "地点",
+        "活动"
+      ],
+      "reading": [
+        {
+          "text": "会場",
+          "kana": "かいじょう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-033",
+      "type": "vocab",
+      "jp": "住所",
+      "kana": "じゅうしょ",
+      "zh": "地址",
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "生活",
+        "信息"
+      ],
+      "reading": [
+        {
+          "text": "住所",
+          "kana": "じゅうしょ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-034",
+      "type": "vocab",
+      "jp": "近所",
+      "kana": "きんじょ",
+      "zh": [
+        "附近",
+        "邻近地区"
+      ],
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "地点",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "近所",
+          "kana": "きんじょ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-035",
+      "type": "vocab",
+      "jp": "以内",
+      "kana": "いない",
+      "zh": "以内",
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "范围",
+        "时间"
+      ],
+      "reading": [
+        {
+          "text": "以内",
+          "kana": "いない"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-036",
+      "type": "vocab",
+      "jp": "以上",
+      "kana": "いじょう",
+      "zh": "以上",
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "范围",
+        "数量"
+      ],
+      "reading": [
+        {
+          "text": "以上",
+          "kana": "いじょう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-037",
+      "type": "vocab",
+      "jp": "以下",
+      "kana": "いか",
+      "zh": "以下",
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "范围",
+        "数量"
+      ],
+      "reading": [
+        {
+          "text": "以下",
+          "kana": "いか"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-038",
+      "type": "vocab",
+      "jp": "以外",
+      "kana": "いがい",
+      "zh": "以外",
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "范围",
+        "常用"
+      ],
+      "reading": [
+        {
+          "text": "以外",
+          "kana": "いがい"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-039",
+      "type": "vocab",
+      "jp": "最初",
+      "kana": "さいしょ",
+      "zh": "最初",
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "时间",
+        "顺序"
+      ],
+      "reading": [
+        {
+          "text": "最初",
+          "kana": "さいしょ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-040",
+      "type": "vocab",
+      "jp": "最後",
+      "kana": "さいご",
+      "zh": "最后",
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "时间",
+        "顺序"
+      ],
+      "reading": [
+        {
+          "text": "最後",
+          "kana": "さいご"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-041",
+      "type": "vocab",
+      "jp": "途中",
+      "kana": "とちゅう",
+      "zh": "途中",
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "时间",
+        "移动"
+      ],
+      "reading": [
+        {
+          "text": "途中",
+          "kana": "とちゅう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-042",
+      "type": "vocab",
+      "jp": "将来",
+      "kana": "しょうらい",
+      "zh": "将来",
+      "pos": "名词",
+      "level": "N4",
+      "tags": [
+        "时间",
+        "人生"
+      ],
+      "reading": [
+        {
+          "text": "将来",
+          "kana": "しょうらい"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-043",
+      "type": "vocab",
+      "jp": "比べる",
+      "kana": "くらべる",
+      "zh": "比较",
+      "pos": "二类动词",
+      "level": "N4",
+      "tags": [
+        "思考",
+        "动作"
+      ],
+      "reading": [
+        {
+          "text": "比べる",
+          "kana": "くらべる"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-044",
+      "type": "vocab",
+      "jp": "調べる",
+      "kana": "しらべる",
+      "zh": [
+        "调查",
+        "查找"
+      ],
+      "pos": "二类动词",
+      "level": "N4",
+      "tags": [
+        "学习",
+        "动作"
+      ],
+      "reading": [
+        {
+          "text": "調べる",
+          "kana": "しらべる"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-045",
+      "type": "vocab",
+      "jp": "始める",
+      "kana": "はじめる",
+      "zh": "开始",
+      "pos": "二类动词",
+      "level": "N4",
+      "tags": [
+        "动作",
+        "时间"
+      ],
+      "reading": [
+        {
+          "text": "始める",
+          "kana": "はじめる"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-046",
+      "type": "vocab",
+      "jp": "続ける",
+      "kana": "つづける",
+      "zh": "继续",
+      "pos": "二类动词",
+      "level": "N4",
+      "tags": [
+        "动作",
+        "学习"
+      ],
+      "reading": [
+        {
+          "text": "続ける",
+          "kana": "つづける"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-047",
+      "type": "vocab",
+      "jp": "決める",
+      "kana": "きめる",
+      "zh": "决定",
+      "pos": "二类动词",
+      "level": "N4",
+      "tags": [
+        "思考",
+        "动作"
+      ],
+      "reading": [
+        {
+          "text": "決める",
+          "kana": "きめる"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-048",
+      "type": "vocab",
+      "jp": "変える",
+      "kana": "かえる",
+      "zh": "改变",
+      "pos": "二类动词",
+      "level": "N4",
+      "tags": [
+        "变化",
+        "动作"
+      ],
+      "reading": [
+        {
+          "text": "変える",
+          "kana": "かえる"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-049",
+      "type": "vocab",
+      "jp": "運ぶ",
+      "kana": "はこぶ",
+      "zh": "搬运",
+      "pos": "一类动词",
+      "level": "N4",
+      "tags": [
+        "动作",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "運ぶ",
+          "kana": "はこぶ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-050",
+      "type": "vocab",
+      "jp": "直す",
+      "kana": "なおす",
+      "zh": [
+        "修理",
+        "改正"
+      ],
+      "pos": "一类动词",
+      "level": "N4",
+      "tags": [
+        "动作",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "直す",
+          "kana": "なおす"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-051",
+      "type": "vocab",
+      "jp": "手伝う",
+      "kana": "てつだう",
+      "zh": "帮忙",
+      "pos": "一类动词",
+      "level": "N4",
+      "tags": [
+        "人际",
+        "动作"
+      ],
+      "reading": [
+        {
+          "text": "手伝う",
+          "kana": "てつだう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-052",
+      "type": "vocab",
+      "jp": "間に合う",
+      "kana": "まにあう",
+      "zh": [
+        "赶得上",
+        "来得及"
+      ],
+      "pos": "一类动词",
+      "level": "N4",
+      "tags": [
+        "时间",
+        "动作"
+      ],
+      "reading": [
+        {
+          "text": "間に合う",
+          "kana": "まにあう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-053",
+      "type": "vocab",
+      "jp": "片付ける",
+      "kana": "かたづける",
+      "zh": [
+        "收拾",
+        "整理"
+      ],
+      "pos": "二类动词",
+      "level": "N4",
+      "tags": [
+        "生活",
+        "动作"
+      ],
+      "reading": [
+        {
+          "text": "片付ける",
+          "kana": "かたづける"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-054",
+      "type": "vocab",
+      "jp": "集める",
+      "kana": "あつめる",
+      "zh": "收集",
+      "pos": "二类动词",
+      "level": "N4",
+      "tags": [
+        "动作",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "集める",
+          "kana": "あつめる"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-055",
+      "type": "vocab",
+      "jp": "足りる",
+      "kana": "たりる",
+      "zh": "足够",
+      "pos": "二类动词",
+      "level": "N4",
+      "tags": [
+        "数量",
+        "状态"
+      ],
+      "reading": [
+        {
+          "text": "足りる",
+          "kana": "たりる"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-056",
+      "type": "vocab",
+      "jp": "慣れる",
+      "kana": "なれる",
+      "zh": "习惯",
+      "pos": "二类动词",
+      "level": "N4",
+      "tags": [
+        "生活",
+        "变化"
+      ],
+      "reading": [
+        {
+          "text": "慣れる",
+          "kana": "なれる"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-057",
+      "type": "vocab",
+      "jp": "似る",
+      "kana": "にる",
+      "zh": "相似",
+      "pos": "二类动词",
+      "level": "N4",
+      "tags": [
+        "状态",
+        "比较"
+      ],
+      "reading": [
+        {
+          "text": "似る",
+          "kana": "にる"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-058",
+      "type": "vocab",
+      "jp": "込む",
+      "kana": "こむ",
+      "zh": "拥挤",
+      "pos": "一类动词",
+      "level": "N4",
+      "tags": [
+        "状态",
+        "交通"
+      ],
+      "reading": [
+        {
+          "text": "込む",
+          "kana": "こむ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-059",
+      "type": "vocab",
+      "jp": "笑う",
+      "kana": "わらう",
+      "zh": "笑",
+      "pos": "一类动词",
+      "level": "N4",
+      "tags": [
+        "情绪",
+        "动作"
+      ],
+      "reading": [
+        {
+          "text": "笑う",
+          "kana": "わらう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n4-experience-060",
+      "type": "vocab",
+      "jp": "泣く",
+      "kana": "なく",
+      "zh": "哭",
+      "pos": "一类动词",
+      "level": "N4",
+      "tags": [
+        "情绪",
+        "动作"
+      ],
+      "reading": [
+        {
+          "text": "泣く",
+          "kana": "なく"
+        }
+      ]
+    }
+  ]
+}

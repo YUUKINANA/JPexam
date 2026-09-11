@@ -1,0 +1,1183 @@
+{
+  "schemaVersion": "1.0",
+  "id": "vocab-n3-experience",
+  "type": "vocab",
+  "title": "N3 体验词汇",
+  "description": "GitHub 体验版 N3 常用词汇，共 60 条。",
+  "sourceLanguage": "ja",
+  "license": "Generated sample content for JPexam GitHub experience edition.",
+  "source": "JPexam generated experience pack",
+  "createdAt": "2026-09-10",
+  "items": [
+    {
+      "id": "vocab-n3-experience-001",
+      "type": "vocab",
+      "jp": "確認",
+      "kana": "かくにん",
+      "zh": "确认",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "工作",
+        "沟通"
+      ],
+      "reading": [
+        {
+          "text": "確認",
+          "kana": "かくにん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-002",
+      "type": "vocab",
+      "jp": "報告",
+      "kana": "ほうこく",
+      "zh": "报告",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "工作",
+        "沟通"
+      ],
+      "reading": [
+        {
+          "text": "報告",
+          "kana": "ほうこく"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-003",
+      "type": "vocab",
+      "jp": "相談",
+      "kana": "そうだん",
+      "zh": [
+        "商量",
+        "咨询"
+      ],
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "沟通",
+        "人际"
+      ],
+      "reading": [
+        {
+          "text": "相談",
+          "kana": "そうだん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-004",
+      "type": "vocab",
+      "jp": "判断",
+      "kana": "はんだん",
+      "zh": "判断",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "思考",
+        "工作"
+      ],
+      "reading": [
+        {
+          "text": "判断",
+          "kana": "はんだん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-005",
+      "type": "vocab",
+      "jp": "改善",
+      "kana": "かいぜん",
+      "zh": "改善",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "工作",
+        "变化"
+      ],
+      "reading": [
+        {
+          "text": "改善",
+          "kana": "かいぜん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-006",
+      "type": "vocab",
+      "jp": "解決",
+      "kana": "かいけつ",
+      "zh": "解决",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "问题",
+        "工作"
+      ],
+      "reading": [
+        {
+          "text": "解決",
+          "kana": "かいけつ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-007",
+      "type": "vocab",
+      "jp": "原因",
+      "kana": "げんいん",
+      "zh": "原因",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "说明",
+        "逻辑"
+      ],
+      "reading": [
+        {
+          "text": "原因",
+          "kana": "げんいん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-008",
+      "type": "vocab",
+      "jp": "結果",
+      "kana": "けっか",
+      "zh": "结果",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "说明",
+        "逻辑"
+      ],
+      "reading": [
+        {
+          "text": "結果",
+          "kana": "けっか"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-009",
+      "type": "vocab",
+      "jp": "影響",
+      "kana": "えいきょう",
+      "zh": "影响",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "说明",
+        "抽象"
+      ],
+      "reading": [
+        {
+          "text": "影響",
+          "kana": "えいきょう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-010",
+      "type": "vocab",
+      "jp": "状況",
+      "kana": "じょうきょう",
+      "zh": "状况",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "说明",
+        "工作"
+      ],
+      "reading": [
+        {
+          "text": "状況",
+          "kana": "じょうきょう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-011",
+      "type": "vocab",
+      "jp": "可能性",
+      "kana": "かのうせい",
+      "zh": "可能性",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "判断",
+        "抽象"
+      ],
+      "reading": [
+        {
+          "text": "可能性",
+          "kana": "かのうせい"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-012",
+      "type": "vocab",
+      "jp": "関係",
+      "kana": "かんけい",
+      "zh": "关系",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "人际",
+        "说明"
+      ],
+      "reading": [
+        {
+          "text": "関係",
+          "kana": "かんけい"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-013",
+      "type": "vocab",
+      "jp": "印象",
+      "kana": "いんしょう",
+      "zh": "印象",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "评价",
+        "感受"
+      ],
+      "reading": [
+        {
+          "text": "印象",
+          "kana": "いんしょう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-014",
+      "type": "vocab",
+      "jp": "努力",
+      "kana": "どりょく",
+      "zh": "努力",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "学习",
+        "态度"
+      ],
+      "reading": [
+        {
+          "text": "努力",
+          "kana": "どりょく"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-015",
+      "type": "vocab",
+      "jp": "変化",
+      "kana": "へんか",
+      "zh": "变化",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "变化",
+        "说明"
+      ],
+      "reading": [
+        {
+          "text": "変化",
+          "kana": "へんか"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-016",
+      "type": "vocab",
+      "jp": "成長",
+      "kana": "せいちょう",
+      "zh": "成长",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "变化",
+        "人生"
+      ],
+      "reading": [
+        {
+          "text": "成長",
+          "kana": "せいちょう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-017",
+      "type": "vocab",
+      "jp": "成功",
+      "kana": "せいこう",
+      "zh": "成功",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "结果",
+        "工作"
+      ],
+      "reading": [
+        {
+          "text": "成功",
+          "kana": "せいこう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-018",
+      "type": "vocab",
+      "jp": "失敗",
+      "kana": "しっぱい",
+      "zh": "失败",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "结果",
+        "学习"
+      ],
+      "reading": [
+        {
+          "text": "失敗",
+          "kana": "しっぱい"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-019",
+      "type": "vocab",
+      "jp": "能力",
+      "kana": "のうりょく",
+      "zh": "能力",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "学习",
+        "工作"
+      ],
+      "reading": [
+        {
+          "text": "能力",
+          "kana": "のうりょく"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-020",
+      "type": "vocab",
+      "jp": "目的",
+      "kana": "もくてき",
+      "zh": "目的",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "计划",
+        "说明"
+      ],
+      "reading": [
+        {
+          "text": "目的",
+          "kana": "もくてき"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-021",
+      "type": "vocab",
+      "jp": "目標",
+      "kana": "もくひょう",
+      "zh": "目标",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "计划",
+        "学习"
+      ],
+      "reading": [
+        {
+          "text": "目標",
+          "kana": "もくひょう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-022",
+      "type": "vocab",
+      "jp": "課題",
+      "kana": "かだい",
+      "zh": [
+        "课题",
+        "任务"
+      ],
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "学习",
+        "工作"
+      ],
+      "reading": [
+        {
+          "text": "課題",
+          "kana": "かだい"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-023",
+      "type": "vocab",
+      "jp": "資料",
+      "kana": "しりょう",
+      "zh": "资料",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "工作",
+        "学习"
+      ],
+      "reading": [
+        {
+          "text": "資料",
+          "kana": "しりょう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-024",
+      "type": "vocab",
+      "jp": "情報",
+      "kana": "じょうほう",
+      "zh": "信息",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "工作",
+        "社会"
+      ],
+      "reading": [
+        {
+          "text": "情報",
+          "kana": "じょうほう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-025",
+      "type": "vocab",
+      "jp": "制度",
+      "kana": "せいど",
+      "zh": "制度",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "社会",
+        "规则"
+      ],
+      "reading": [
+        {
+          "text": "制度",
+          "kana": "せいど"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-026",
+      "type": "vocab",
+      "jp": "環境",
+      "kana": "かんきょう",
+      "zh": "环境",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "生活",
+        "社会"
+      ],
+      "reading": [
+        {
+          "text": "環境",
+          "kana": "かんきょう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-027",
+      "type": "vocab",
+      "jp": "地域",
+      "kana": "ちいき",
+      "zh": "地区",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "社会",
+        "地点"
+      ],
+      "reading": [
+        {
+          "text": "地域",
+          "kana": "ちいき"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-028",
+      "type": "vocab",
+      "jp": "社会",
+      "kana": "しゃかい",
+      "zh": "社会",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "社会",
+        "学习"
+      ],
+      "reading": [
+        {
+          "text": "社会",
+          "kana": "しゃかい"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-029",
+      "type": "vocab",
+      "jp": "経済",
+      "kana": "けいざい",
+      "zh": "经济",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "社会",
+        "学习"
+      ],
+      "reading": [
+        {
+          "text": "経済",
+          "kana": "けいざい"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-030",
+      "type": "vocab",
+      "jp": "技術",
+      "kana": "ぎじゅつ",
+      "zh": "技术",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "工作",
+        "学习"
+      ],
+      "reading": [
+        {
+          "text": "技術",
+          "kana": "ぎじゅつ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-031",
+      "type": "vocab",
+      "jp": "特徴",
+      "kana": "とくちょう",
+      "zh": "特征",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "说明",
+        "比较"
+      ],
+      "reading": [
+        {
+          "text": "特徴",
+          "kana": "とくちょう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-032",
+      "type": "vocab",
+      "jp": "内容",
+      "kana": "ないよう",
+      "zh": "内容",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "说明",
+        "学习"
+      ],
+      "reading": [
+        {
+          "text": "内容",
+          "kana": "ないよう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-033",
+      "type": "vocab",
+      "jp": "条件",
+      "kana": "じょうけん",
+      "zh": "条件",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "判断",
+        "规则"
+      ],
+      "reading": [
+        {
+          "text": "条件",
+          "kana": "じょうけん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-034",
+      "type": "vocab",
+      "jp": "程度",
+      "kana": "ていど",
+      "zh": "程度",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "范围",
+        "说明"
+      ],
+      "reading": [
+        {
+          "text": "程度",
+          "kana": "ていど"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-035",
+      "type": "vocab",
+      "jp": "態度",
+      "kana": "たいど",
+      "zh": "态度",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "人际",
+        "评价"
+      ],
+      "reading": [
+        {
+          "text": "態度",
+          "kana": "たいど"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-036",
+      "type": "vocab",
+      "jp": "感情",
+      "kana": "かんじょう",
+      "zh": "感情",
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "情绪",
+        "人际"
+      ],
+      "reading": [
+        {
+          "text": "感情",
+          "kana": "かんじょう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-037",
+      "type": "vocab",
+      "jp": "不安",
+      "kana": "ふあん",
+      "zh": "不安",
+      "pos": "名词/形容动词",
+      "level": "N3",
+      "tags": [
+        "情绪",
+        "状态"
+      ],
+      "reading": [
+        {
+          "text": "不安",
+          "kana": "ふあん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-038",
+      "type": "vocab",
+      "jp": "安心",
+      "kana": "あんしん",
+      "zh": "安心",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "情绪",
+        "状态"
+      ],
+      "reading": [
+        {
+          "text": "安心",
+          "kana": "あんしん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-039",
+      "type": "vocab",
+      "jp": "余裕",
+      "kana": "よゆう",
+      "zh": [
+        "余裕",
+        "从容"
+      ],
+      "pos": "名词",
+      "level": "N3",
+      "tags": [
+        "状态",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "余裕",
+          "kana": "よゆう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-040",
+      "type": "vocab",
+      "jp": "納得",
+      "kana": "なっとく",
+      "zh": [
+        "理解并接受",
+        "信服"
+      ],
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "思考",
+        "沟通"
+      ],
+      "reading": [
+        {
+          "text": "納得",
+          "kana": "なっとく"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-041",
+      "type": "vocab",
+      "jp": "遠慮",
+      "kana": "えんりょ",
+      "zh": [
+        "客气",
+        "顾虑"
+      ],
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "人际",
+        "敬语"
+      ],
+      "reading": [
+        {
+          "text": "遠慮",
+          "kana": "えんりょ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-042",
+      "type": "vocab",
+      "jp": "我慢",
+      "kana": "がまん",
+      "zh": "忍耐",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "情绪",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "我慢",
+          "kana": "がまん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-043",
+      "type": "vocab",
+      "jp": "担当",
+      "kana": "たんとう",
+      "zh": [
+        "负责",
+        "担当"
+      ],
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "工作",
+        "责任"
+      ],
+      "reading": [
+        {
+          "text": "担当",
+          "kana": "たんとう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-044",
+      "type": "vocab",
+      "jp": "参加",
+      "kana": "さんか",
+      "zh": "参加",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "活动",
+        "人际"
+      ],
+      "reading": [
+        {
+          "text": "参加",
+          "kana": "さんか"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-045",
+      "type": "vocab",
+      "jp": "協力",
+      "kana": "きょうりょく",
+      "zh": [
+        "协助",
+        "合作"
+      ],
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "工作",
+        "人际"
+      ],
+      "reading": [
+        {
+          "text": "協力",
+          "kana": "きょうりょく"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-046",
+      "type": "vocab",
+      "jp": "集中",
+      "kana": "しゅうちゅう",
+      "zh": "集中",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "学习",
+        "状态"
+      ],
+      "reading": [
+        {
+          "text": "集中",
+          "kana": "しゅうちゅう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-047",
+      "type": "vocab",
+      "jp": "整理",
+      "kana": "せいり",
+      "zh": "整理",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "工作",
+        "生活"
+      ],
+      "reading": [
+        {
+          "text": "整理",
+          "kana": "せいり"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-048",
+      "type": "vocab",
+      "jp": "保存",
+      "kana": "ほぞん",
+      "zh": "保存",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "工作",
+        "工具"
+      ],
+      "reading": [
+        {
+          "text": "保存",
+          "kana": "ほぞん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-049",
+      "type": "vocab",
+      "jp": "追加",
+      "kana": "ついか",
+      "zh": "追加",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "工作",
+        "变化"
+      ],
+      "reading": [
+        {
+          "text": "追加",
+          "kana": "ついか"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-050",
+      "type": "vocab",
+      "jp": "削除",
+      "kana": "さくじょ",
+      "zh": "删除",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "工作",
+        "工具"
+      ],
+      "reading": [
+        {
+          "text": "削除",
+          "kana": "さくじょ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-051",
+      "type": "vocab",
+      "jp": "選択",
+      "kana": "せんたく",
+      "zh": "选择",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "判断",
+        "工具"
+      ],
+      "reading": [
+        {
+          "text": "選択",
+          "kana": "せんたく"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-052",
+      "type": "vocab",
+      "jp": "入力",
+      "kana": "にゅうりょく",
+      "zh": "输入",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "工具",
+        "学习"
+      ],
+      "reading": [
+        {
+          "text": "入力",
+          "kana": "にゅうりょく"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-053",
+      "type": "vocab",
+      "jp": "表示",
+      "kana": "ひょうじ",
+      "zh": "显示",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "工具",
+        "说明"
+      ],
+      "reading": [
+        {
+          "text": "表示",
+          "kana": "ひょうじ"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-054",
+      "type": "vocab",
+      "jp": "向上",
+      "kana": "こうじょう",
+      "zh": [
+        "提高",
+        "进步"
+      ],
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "学习",
+        "变化"
+      ],
+      "reading": [
+        {
+          "text": "向上",
+          "kana": "こうじょう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-055",
+      "type": "vocab",
+      "jp": "実行",
+      "kana": "じっこう",
+      "zh": [
+        "执行",
+        "实行"
+      ],
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "工作",
+        "行动"
+      ],
+      "reading": [
+        {
+          "text": "実行",
+          "kana": "じっこう"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-056",
+      "type": "vocab",
+      "jp": "比較",
+      "kana": "ひかく",
+      "zh": "比较",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "思考",
+        "说明"
+      ],
+      "reading": [
+        {
+          "text": "比較",
+          "kana": "ひかく"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-057",
+      "type": "vocab",
+      "jp": "分析",
+      "kana": "ぶんせき",
+      "zh": "分析",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "学习",
+        "工作"
+      ],
+      "reading": [
+        {
+          "text": "分析",
+          "kana": "ぶんせき"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-058",
+      "type": "vocab",
+      "jp": "評価",
+      "kana": "ひょうか",
+      "zh": "评价",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "判断",
+        "工作"
+      ],
+      "reading": [
+        {
+          "text": "評価",
+          "kana": "ひょうか"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-059",
+      "type": "vocab",
+      "jp": "提案",
+      "kana": "ていあん",
+      "zh": [
+        "提案",
+        "建议"
+      ],
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "沟通",
+        "工作"
+      ],
+      "reading": [
+        {
+          "text": "提案",
+          "kana": "ていあん"
+        }
+      ]
+    },
+    {
+      "id": "vocab-n3-experience-060",
+      "type": "vocab",
+      "jp": "理解",
+      "kana": "りかい",
+      "zh": "理解",
+      "pos": "名词/サ变动词",
+      "level": "N3",
+      "tags": [
+        "学习",
+        "思考"
+      ],
+      "reading": [
+        {
+          "text": "理解",
+          "kana": "りかい"
+        }
+      ]
+    }
+  ]
+}
